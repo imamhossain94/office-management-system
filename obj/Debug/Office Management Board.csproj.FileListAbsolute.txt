@@ -1,0 +1,41 @@
+G:\Projects\Visual C#\Office Management Board\bin\Debug\Office Management Board.exe
+G:\Projects\Visual C#\Office Management Board\bin\Debug\Office Management Board.pdb
+G:\Projects\Visual C#\Office Management Board\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\Projects\Visual C#\Office Management Board\bin\Debug\Bunifu_UI_v1.5.3.xml
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office Management Board.csprojAssemblyReference.cache
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office_Management_Board.LogInForm.resources
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office_Management_Board.Properties.Resources.resources
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office Management Board.csproj.GenerateResource.cache
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office Management Board.csproj.CoreCompileInputs.cache
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office Management Board.csproj.CopyComplete
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office Management Board.exe
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office Management Board.pdb
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office_Management_Board.EmployeeForm.resources
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office_Management_Board.ManagerForm.resources
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office_Management_Board.StaffForm.resources
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office_Management_Board.ManagerHomecs.resources
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office_Management_Board.AdminChoice.resources
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office_Management_Board.DeshBoard.resources
+G:\Projects\Visual C#\Office Management Board\bin\Debug\Office Management Board.exe.config
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office_Management_Board.HomeUI.EmployeeHome.resources
+G:\Projects\Visual C#\Office Management Board\obj\Debug\Office_Management_Board.AttendenceUI.StaffHome.resources
+D:\CSharpProjects\office-management-board\bin\Debug\Office Management Board.exe.config
+D:\CSharpProjects\office-management-board\bin\Debug\Office Management Board.exe
+D:\CSharpProjects\office-management-board\bin\Debug\Office Management Board.pdb
+D:\CSharpProjects\office-management-board\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\CSharpProjects\office-management-board\obj\Debug\Office Management Board.csprojAssemblyReference.cache
+D:\CSharpProjects\office-management-board\obj\Debug\Office_Management_Board.AdminChoice.resources
+D:\CSharpProjects\office-management-board\obj\Debug\Office_Management_Board.DeshBoard.resources
+D:\CSharpProjects\office-management-board\obj\Debug\Office_Management_Board.HomeUI.EmployeeHome.resources
+D:\CSharpProjects\office-management-board\obj\Debug\Office_Management_Board.AttendenceUI.StaffHome.resources
+D:\CSharpProjects\office-management-board\obj\Debug\Office_Management_Board.EmployeeForm.resources
+D:\CSharpProjects\office-management-board\obj\Debug\Office_Management_Board.LogInForm.resources
+D:\CSharpProjects\office-management-board\obj\Debug\Office_Management_Board.ManagerForm.resources
+D:\CSharpProjects\office-management-board\obj\Debug\Office_Management_Board.ManagerHomecs.resources
+D:\CSharpProjects\office-management-board\obj\Debug\Office_Management_Board.Properties.Resources.resources
+D:\CSharpProjects\office-management-board\obj\Debug\Office_Management_Board.StaffForm.resources
+D:\CSharpProjects\office-management-board\obj\Debug\Office Management Board.csproj.GenerateResource.cache
+D:\CSharpProjects\office-management-board\obj\Debug\Office Management Board.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\office-management-board\obj\Debug\Office Management Board.csproj.CopyComplete
+D:\CSharpProjects\office-management-board\obj\Debug\Office Management Board.exe
+D:\CSharpProjects\office-management-board\obj\Debug\Office Management Board.pdb
